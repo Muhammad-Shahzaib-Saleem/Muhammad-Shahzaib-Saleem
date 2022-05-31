@@ -13,7 +13,7 @@
 
 ## Muhammad-Shahzaib-Saleem's Github Stats
 
-<span> ![Shahzaib's github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Shahzaib-Saleemtheme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Shahzaib's github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Shahzaib-Saleem&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Shahzaib-Saleem&theme=tokyonight)</span>
 
 
