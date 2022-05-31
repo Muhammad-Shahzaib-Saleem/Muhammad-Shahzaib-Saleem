@@ -11,6 +11,12 @@
 
 - 🤝 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
 
+### Connect me at here
+
+<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
+&nbsp;
+<br>
+
 ## Muhammad-Shahzaib-Saleem's Github Stats
 
 <span> ![Shahzaib's github stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Shahzaib-Saleem&theme=tokyonight&show_icons=true&count_private=true) </span>
