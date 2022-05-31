@@ -13,7 +13,7 @@
 
 ### Connect me at here
 
-<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
+<span><a href="https://www.linkedin.com/in/" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
 &nbsp;
 <br>
 
