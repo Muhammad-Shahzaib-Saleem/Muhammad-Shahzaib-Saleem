@@ -11,6 +11,10 @@
 
 - 🤝 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
 
+### Dev Card
+
+<a href="https://app.daily.dev/Shahzaib987"><img src="https://api.daily.dev/devcards/059ca4120d3144ae8078794ce62a3f2a.png?r=v5w" width="400" alt="Shahzaib Saleem's Dev Card"/></a>
+
 ### Connect me at here
 
 <span><a href="https://www.linkedin.com/in/Shahzaib-Saleem1" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
