@@ -8,8 +8,10 @@
 - 🔭 I’m currently working on **BLOCKCHAIN, ETHEREUM - SOLIDITY, and React - Node.Js**
 
 - 🌱 I have done lots of **BLOCKCHAIN DAPP DECENTRALIZATION**
-
+  
 - 🤝 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
+
+- 🚀 Now a days working on AI and Learning 
 
 
 
